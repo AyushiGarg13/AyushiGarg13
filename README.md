@@ -1,13 +1,19 @@
 # Hi, I'm Ayushi Garg 👋
 
-<center>
+<p align="center">
 <img src="https://gpvc.arturio.dev/AyushiGarg13"/> 
+</p>
 
 ### Connect with me:
 
-[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/ayushigarg13/)[![Gmail](https://img.icons8.com/color/48/gmail-new.png)](mailto:ayushigarg67@gmail.com)[![Twitter](https://img.icons8.com/color/48/twitter--v1.png)](https://twitter.com/AyushiG_)[![Discord](https://img.icons8.com/color/48/discord-logo.png)](https://discordapp.com/users/AyushiGarg#5405)
+<p align="center">
+<a href="https://www.linkedin.com/in/ayushigarg13/"> <img src="https://img.icons8.com/color/48/linkedin.png">
+<a href="mailto:ayushigarg67@gmail.com"> <img src="https://img.icons8.com/color/48/gmail-new.png">
+<a href="https://twitter.com/AyushiG_"> <img src="https://img.icons8.com/color/48/twitter--v1.png">
+<a href="https://discordapp.com/users/AyushiGarg#5405"> <img src="https://img.icons8.com/color/48/discord-logo.png">
+</p>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/github/followers/AyushiGarg13?label=Followers&logo=GitHub&style=for-the-badge"/> 
 <img src="https://img.shields.io/twitter/follow/AyushiG_?label=Twitter&logo=twitter&style=for-the-badge&color=blue"/>
 </p>
