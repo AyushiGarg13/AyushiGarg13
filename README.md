@@ -1,7 +1,10 @@
-## Hi, I'm Ayushi Garg 👋
+# Hi, I'm Ayushi Garg 👋
 ![Profile views](https://gpvc.arturio.dev/AyushiGarg13) 
 
-![Github Followers](https://img.shields.io/github/followers/AyushiGarg13?label=Followers&logo=GitHub&style=for-the-badge) ![Twitter Followers](https://img.shields.io/twitter/follow/AyushiG_?label=Twitter&logo=twitter&style=for-the-badge&color=blue)
+<p>
+  ![Github Followers](https://img.shields.io/github/followers/AyushiGarg13?label=Followers&logo=GitHub&style=for-the-badge) 
+  ![Twitter Followers](https://img.shields.io/twitter/follow/AyushiG_?label=Twitter&logo=twitter&style=for-the-badge&color=blue)
+</p>
 
 
 ### About Me:
