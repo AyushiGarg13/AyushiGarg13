@@ -4,21 +4,19 @@
 <img src="https://gpvc.arturio.dev/AyushiGarg13"/> 
 </p>
 
+<h3 align="center"> Connect with me: </h3>
 <p align="center">
-### Connect with me:
 <a href="https://www.linkedin.com/in/ayushigarg13/"> <img src="https://img.icons8.com/color/48/linkedin.png">
 <a href="mailto:ayushigarg67@gmail.com"> <img src="https://img.icons8.com/color/48/gmail-new.png">
 <a href="https://twitter.com/AyushiG_"> <img src="https://img.icons8.com/color/48/twitter--v1.png">
 <a href="https://discordapp.com/users/AyushiGarg#5405"> <img src="https://img.icons8.com/color/48/discord-logo.png">
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://img.shields.io/github/followers/AyushiGarg13?label=Followers&logo=GitHub&style=for-the-badge"/> 
 <img src="https://img.shields.io/twitter/follow/AyushiG_?label=Twitter&logo=twitter&style=for-the-badge&color=blue"/>
-</p>
+</p> -->
   
-</center>
-
 
 ### About Me:
 
