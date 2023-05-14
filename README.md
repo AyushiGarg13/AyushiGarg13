@@ -1,10 +1,7 @@
-# Hi, I'm Ayushi Garg 👋
+## Hi, I'm Ayushi Garg 👋
 ![Profile views](https://gpvc.arturio.dev/AyushiGarg13) 
 
-<p>
-  ![Github Followers](https://img.shields.io/github/followers/AyushiGarg13?label=Followers&logo=GitHub&style=for-the-badge) 
-  ![Twitter Followers](https://img.shields.io/twitter/follow/AyushiG_?label=Twitter&logo=twitter&style=for-the-badge&color=blue)
-</p>
+![Github Followers](https://img.shields.io/github/followers/AyushiGarg13?label=Followers&logo=GitHub&style=for-the-badge) ![Twitter Followers](https://img.shields.io/twitter/follow/AyushiG_?label=Twitter&logo=twitter&style=for-the-badge&color=blue)
 
 
 ### About Me:
@@ -24,20 +21,25 @@
 
 #### Programming Languages
 
+<p>
 <img src="https://img.icons8.com/color/48/000000/python.png">
 <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/48/dart.png"/>
 <img src="https://img.icons8.com/color/48/c-sharp-logo-2.png"/>
+</p>
 
 #### Frameworks & Libraries
 
+<p>
 <img src="https://img.icons8.com/color/48/flask.png"/>
 <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
 <img src="https://img.icons8.com/color/48/django.png"/>
 <img width="48" height="48" src="https://developers.google.com/static/ar/images/logo.svg" />
+</p>
 
 #### Databases & Cloud Hosting
 
+<p>
 <img src="https://img.icons8.com/color/48/mongodb.png"/>
 <img width="48" height="48" src="https://www.svgrepo.com/show/305719/apachekafka.svg">
 <img src="https://img.icons8.com/color/48/azure-1.png"/>
@@ -47,17 +49,18 @@
 <img src="https://img.icons8.com/color/48/docker.png"/>
 <img src="https://img.icons8.com/color/48/kubernetes.png"/>
 <img src="https://img.icons8.com/color/48/jenkins.png"/>
-
+</p>
 
 #### Softwares & Tools
 
+<p>
 <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" />
 <img src="https://img.icons8.com/color/48/unity.png"/>
 <img src="https://img.icons8.com/color/48/figma--v1.png"/>
 <img src="https://img.icons8.com/color/48/git.png"/>
 <img src="https://img.icons8.com/color/48/000000/github.png"/>
-
+</p>
 
 ## Awards and Certifications
 
@@ -90,3 +93,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushiGarg13)](https://github.com/MrKrishnaAgarwal/readme-components-github)
 
 ![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AyushiGarg13&theme=dark)
+
+
+
