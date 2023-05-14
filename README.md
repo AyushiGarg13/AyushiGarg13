@@ -1,15 +1,19 @@
 ### Hi there 👋
 
-### Languages and Tools:
+### About Me:
+
+### Connect with me:
+
+### Tech Stack:
 
 <p>
 <img src="https://img.icons8.com/color/35/000000/python.png">
-<img src="https://icons8.com/icon/TtXEs5SeYLG8/flask">
-<img src="https://icons8.com/icon/74402/mongodb"/>
-<img src="https://icons8.com/icon/40669/c%2B%2B">
-<img src="https://icons8.com/icon/7I3BjCqe9rjG/flutter">
+<img src="https://img.icons8.com/icon/TtXEs5SeYLG8/flask">
+<img src="https://img.icons8.com/icon/74402/mongodb"/>
+<img src="https://img.icons8.com/icon/40669/c%2B%2B">
+<img src="https://img.icons8.com/icon/7I3BjCqe9rjG/flutter">
 <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
-<img src="https://icons8.com/icon/20906/git"/> 
+<img src="https://img.icons8.com/icon/20906/git"/> 
 <img src="https://img.icons8.com/color/35/000000/github.png"/> 
 </p>
 
@@ -38,4 +42,6 @@ Here are some ideas to get you started:
   https://icons8.com/icon/13930/linkedin
   https://icons8.com/icon/62452/firebase
 https://icons8.com/icon/7AFcZ2zirX6Y/dart
+
+https://github-readme-stats.vercel.app/api?username=AyushiGarg13&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
 -->
