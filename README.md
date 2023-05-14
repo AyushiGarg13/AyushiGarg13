@@ -81,12 +81,15 @@
 
 ## My GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushiGarg13&theme=github)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushiGarg13&theme=github">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushiGarg13&theme=github) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushiGarg13&theme=github)
+<p>
+<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushiGarg13&theme=github">
+<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushiGarg13&theme=github">
+</p>
 
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushiGarg13)](https://github.com/AyushiGarg13)
+<img src="https://github-readme-stats.vercel.app/api?username=AyushiGarg13">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushiGarg13)](https://github.com/MrKrishnaAgarwal/readme-components-github)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushiGarg13">
 
-![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AyushiGarg13&theme=dark)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushiGarg13&theme=dark">
