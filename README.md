@@ -1,7 +1,18 @@
 # Hi, I'm Ayushi Garg 👋
-![Profile views](https://gpvc.arturio.dev/AyushiGarg13) 
 
-![Github Followers](https://img.shields.io/github/followers/AyushiGarg13?label=Followers&logo=GitHub&style=for-the-badge) ![Twitter Followers](https://img.shields.io/twitter/follow/AyushiG_?label=Twitter&logo=twitter&style=for-the-badge&color=blue)
+<center>
+<img src="https://gpvc.arturio.dev/AyushiGarg13"/> 
+
+### Connect with me:
+
+[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/ayushigarg13/)[![Gmail](https://img.icons8.com/color/48/gmail-new.png)](mailto:ayushigarg67@gmail.com)[![Twitter](https://img.icons8.com/color/48/twitter--v1.png)](https://twitter.com/AyushiG_)[![Discord](https://img.icons8.com/color/48/discord-logo.png)](https://discordapp.com/users/AyushiGarg#5405)
+
+<p>
+<img src="https://img.shields.io/github/followers/AyushiGarg13?label=Followers&logo=GitHub&style=for-the-badge"/> 
+<img src="https://img.shields.io/twitter/follow/AyushiG_?label=Twitter&logo=twitter&style=for-the-badge&color=blue"/>
+</p>
+  
+</center>
 
 
 ### About Me:
@@ -11,15 +22,12 @@
 - :bulb: I'm interested in learning multiple technologies like, Web Development, Mobile Development, Game Development, Cloud Computing, Augmented Reality, AI
 - :sparkles: My hobbies are singing, travelling, astronomy
 
-### Connect with me:
-
-[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/ayushigarg13/)[![Gmail](https://img.icons8.com/color/48/gmail-new.png)](mailto:ayushigarg67@gmail.com)[![Twitter](https://img.icons8.com/color/48/twitter--v1.png)](https://twitter.com/AyushiG_)[![Discord](https://img.icons8.com/color/48/discord-logo.png)](https://discordapp.com/users/AyushiGarg#5405)
 
 
 
-## Tech Stack:
+## Tech Stack
 
-- #### Programming Languages
+#### Programming Languages
 
 <p>
 <img src="https://img.icons8.com/color/48/000000/python.png">
@@ -28,7 +36,7 @@
 <img src="https://img.icons8.com/color/48/c-sharp-logo-2.png"/>
 </p>
 
-- #### Frameworks & Libraries
+#### Frameworks & Libraries
 
 <p>
 <img src="https://img.icons8.com/color/48/flask.png"/>
@@ -37,7 +45,7 @@
 <img width="48" height="48" src="https://developers.google.com/static/ar/images/logo.svg" />
 </p>
 
-- #### Databases & Cloud Hosting
+#### Databases & Cloud Hosting
 
 <p>
 <img src="https://img.icons8.com/color/48/mongodb.png"/>
@@ -51,7 +59,7 @@
 <img src="https://img.icons8.com/color/48/jenkins.png"/>
 </p>
 
-- #### Softwares & Tools
+#### Softwares & Tools
 
 <p>
 <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
@@ -80,16 +88,16 @@
 - <a href="https://www.credly.com/badges/538bd933-451b-4cb7-9385-00fc0df3723f"><img height=40 src="https://images.credly.com/size/340x340/images/8d1a9575-14eb-494a-9af5-cfc154c2bd59/MTA-Introduction-to-Programming-using-Python-2019.png"/> MTA: Introduction to Programming Using Python - Certified 2019
 
 ## My GitHub Stats
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushiGarg13&theme=github">
-
-<p>
-<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushiGarg13&theme=github">
-<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushiGarg13&theme=github">
+<p align="center">
+<img width="99%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushiGarg13&theme=github">
+  
+<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushiGarg13&theme=github">
+<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushiGarg13&theme=github">
+  
+<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushiGarg13&theme=dark">
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=AyushiGarg13">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushiGarg13">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushiGarg13&theme=dark">
+  
+ <!-- <p align="center">
+<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushiGarg13">
+<img width="65%" src="https://github-readme-stats.vercel.app/api?username=AyushiGarg13">
+</p> -->
