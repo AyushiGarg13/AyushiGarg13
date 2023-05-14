@@ -1,4 +1,4 @@
-## Hi, I'm Ayushi Garg 👋
+# Hi, I'm Ayushi Garg 👋
 ![Profile views](https://gpvc.arturio.dev/AyushiGarg13) 
 
 ![Github Followers](https://img.shields.io/github/followers/AyushiGarg13?label=Followers&logo=GitHub&style=for-the-badge) ![Twitter Followers](https://img.shields.io/twitter/follow/AyushiG_?label=Twitter&logo=twitter&style=for-the-badge&color=blue)
@@ -19,7 +19,7 @@
 
 ## Tech Stack:
 
-#### Programming Languages
+- #### Programming Languages
 
 <p>
 <img src="https://img.icons8.com/color/48/000000/python.png">
@@ -28,7 +28,7 @@
 <img src="https://img.icons8.com/color/48/c-sharp-logo-2.png"/>
 </p>
 
-#### Frameworks & Libraries
+- #### Frameworks & Libraries
 
 <p>
 <img src="https://img.icons8.com/color/48/flask.png"/>
@@ -37,7 +37,7 @@
 <img width="48" height="48" src="https://developers.google.com/static/ar/images/logo.svg" />
 </p>
 
-#### Databases & Cloud Hosting
+- #### Databases & Cloud Hosting
 
 <p>
 <img src="https://img.icons8.com/color/48/mongodb.png"/>
@@ -51,7 +51,7 @@
 <img src="https://img.icons8.com/color/48/jenkins.png"/>
 </p>
 
-#### Softwares & Tools
+- #### Softwares & Tools
 
 <p>
 <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
@@ -83,16 +83,10 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushiGarg13&theme=github)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushiGarg13&theme=github)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushiGarg13&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushiGarg13&theme=github) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushiGarg13&theme=github)
 
 [![ GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushiGarg13)](https://github.com/AyushiGarg13)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushiGarg13)](https://github.com/MrKrishnaAgarwal/readme-components-github)
 
 ![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AyushiGarg13&theme=dark)
-
-
-
