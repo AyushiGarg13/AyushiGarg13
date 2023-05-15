@@ -24,7 +24,7 @@
 </p>
 
 
-## About Me
+## About Me :bust_in_silhouette:
 
 - :woman_technologist: I'm currently working as a Backend Developer in Capgemini. I'm passionate about coding and
 innovating.
@@ -35,7 +35,7 @@ Cloud Computing, Augmented Reality, AI
 
 
 
-## Tech Stack
+## Tech Stack :computer:
 
 #### Programming Languages
 
@@ -83,7 +83,7 @@ Cloud Computing, Augmented Reality, AI
 </p>
 
 
-## Awards and Certifications
+## Awards and Certifications :trophy:
 
 #### Awards
 
@@ -135,7 +135,7 @@ Cloud Computing, Augmented Reality, AI
     </a>
 </p>
 
-## My GitHub Stats
+## My GitHub Stats :chart_with_upwards_trend:
 
 ### My Profile Details
 <p align="center">
