@@ -9,17 +9,18 @@
         src="https://media.giphy.com/media/Kd5t8Q0aUDui9yaf9n/giphy.gif">
 </h3>
 
+
 <p align="center">
-    <a href="https://www.linkedin.com/in/ayushigarg13/"> <img src="https://img.icons8.com/color/48/linkedin.png"></a>
-    <a href="mailto:ayushigarg67@gmail.com"> <img src="https://img.icons8.com/color/48/gmail-new.png"></a>
+    <a href="https://www.linkedin.com/in/ayushigarg13/"> <img src="https://img.icons8.com/color/40/linkedin.png"></a>
+    <a href="mailto:ayushigarg67@gmail.com"> <img src="https://img.icons8.com/color/40/gmail-new.png"></a>
     <a href="https://leetcode.com/AyushiGarg13/"><img
-            src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"
+            src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"
             alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo" /></a>
     <a href="https://www.hackerrank.com/ayushigarg67"><img
-            src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" /></a>
-    <a href="https://twitter.com/AyushiG_"> <img src="https://img.icons8.com/color/48/twitter--v1.png"></a>
+            src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" /></a>
+    <a href="https://twitter.com/AyushiG_"> <img src="https://img.icons8.com/color/40/twitter--v1.png"></a>
     <a href="https://discordapp.com/users/AyushiGarg#5405"> <img
-            src="https://img.icons8.com/color/48/discord-logo.png"></a>
+            src="https://img.icons8.com/color/40/discord-logo.png"></a>
 
 </p>
 
