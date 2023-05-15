@@ -43,8 +43,8 @@ Cloud Computing, Augmented Reality, AI
 <p>&emsp;
     <img src="https://img.icons8.com/color/35/000000/python.png">
     <img src="https://img.icons8.com/color/35/c-plus-plus-logo.png" />
-    <!-- <img src="https://img.icons8.com/color/35/dart.png" />
-    <img src="https://img.icons8.com/color/35/c-sharp-logo-2.png" /> -->
+    <img src="https://img.icons8.com/color/35/dart.png" />
+    <!-- <img src="https://img.icons8.com/color/35/c-sharp-logo-2.png" /> -->
 </p>
 
 #### Frameworks & Libraries
@@ -64,7 +64,7 @@ Cloud Computing, Augmented Reality, AI
     <img width="35" height="35" src="https://www.svgrepo.com/show/305719/apachekafka.svg">
     <img src="https://img.icons8.com/color/35/azure-1.png" />
     <img src="https://img.icons8.com/color/35/amazon-web-services.png" />
-    <!-- <img src="https://img.icons8.com/color/35/firebase.png" /> -->
+    <img src="https://img.icons8.com/color/35/firebase.png" />
     <img width="35" height="35" src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1634190631" />
     <img src="https://img.icons8.com/color/35/docker.png" />
     <!-- <img src="https://img.icons8.com/color/35/kubernetes.png" />
