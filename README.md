@@ -95,23 +95,17 @@ Cloud Computing, Augmented Reality, AI
 #### Certifications
 
 - <a href="https://learn.mongodb.com/c/CjT0aGbwQj2TRpdXCkNdUQ"><img height=40
-        src="https://media.licdn.com/dms/image/C4D0BAQFKe8PwqzyHyA/company-logo_100_100/0/1635171226731?e=1692230400&v=beta&t=2ZFXnd8_T4Q2VkNTJrs3UT_vz00WMk8RskdU6eJKx1Y" />
-    SI Associate</a>
+        src="https://media.licdn.com/dms/image/C4D0BAQFKe8PwqzyHyA/company-logo_100_100/0/1635171226731?e=1692230400&v=beta&t=2ZFXnd8_T4Q2VkNTJrs3UT_vz00WMk8RskdU6eJKx1Y" /></a> SI Associate
 - <a href="https://www.credly.com/badges/c4792bea-b2a1-4857-9ed3-e634ffb8c91e"><img height=40
-        src="https://images.credly.com/size/340x340/images/9904ec90-122c-43cd-8b66-5a7e6c920862/image.png" /> Hands On
-    Essentials - Data Lake</a>
+        src="https://images.credly.com/size/340x340/images/9904ec90-122c-43cd-8b66-5a7e6c920862/image.png" /></a> Hands On Essentials - Data Lake
 - <a href="https://www.credly.com/badges/f9446802-f787-46a0-b63f-8010d6393978"><img height=40
-        src="https://images.credly.com/size/340x340/images/1392296a-cadf-4037-b7ac-f01fef0fe31c/Essentials-Data-Sharing_2x.png" />
-    Hands On Essentials - Data Sharing</a>
+        src="https://images.credly.com/size/340x340/images/1392296a-cadf-4037-b7ac-f01fef0fe31c/Essentials-Data-Sharing_2x.png" /></a> Hands On Essentials - Data Sharing
 - <a href="https://www.credly.com/badges/d1f74252-a0ef-4036-b277-8d34c4da3860"><img height=40
-        src="https://images.credly.com/size/340x340/images/932e3102-58f6-474a-952d-a144b74c98d2/Essentials-Data-Applications_2x.png" />
-    Hands On Essentials - Data Applications</a>
+        src="https://images.credly.com/size/340x340/images/932e3102-58f6-474a-952d-a144b74c98d2/Essentials-Data-Applications_2x.png" /></a> Hands On Essentials - Data Applications
 - <a href="https://www.credly.com/badges/34660def-48cc-4231-9766-8b98a6ba94ab"><img height=40
-        src="https://images.credly.com/size/340x340/images/97fcc871-a820-4143-adf2-62517026cb58/Essentials-Data-Warehouse_2x.png" />
-    Hands On Essentials - Data Warehouse</a>
+        src="https://images.credly.com/size/340x340/images/97fcc871-a820-4143-adf2-62517026cb58/Essentials-Data-Warehouse_2x.png" /></a> Hands On Essentials - Data Warehouse
 - <a href="https://www.credly.com/badges/538bd933-451b-4cb7-9385-00fc0df3723f"><img height=40
-        src="https://images.credly.com/size/340x340/images/8d1a9575-14eb-494a-9af5-cfc154c2bd59/MTA-Introduction-to-Programming-using-Python-2019.png" />
-    MTA: Introduction to Programming Using Python - Certified 2019</a>
+        src="https://images.credly.com/size/340x340/images/8d1a9575-14eb-494a-9af5-cfc154c2bd59/MTA-Introduction-to-Programming-using-Python-2019.png" /></a> MTA: Introduction to Programming Using Python - Certified 2019
 
 
 ## Apps on store :shopping_cart:
