@@ -44,7 +44,7 @@ Cloud Computing, Augmented Reality, AI
     <img src="https://img.icons8.com/color/35/000000/python.png">
     <img src="https://img.icons8.com/color/35/c-plus-plus-logo.png" />
     <img src="https://img.icons8.com/color/35/dart.png" />
-    <!-- <img src="https://img.icons8.com/color/35/c-sharp-logo-2.png" /> -->
+    <img src="https://img.icons8.com/color/35/c-sharp-logo-2.png" />
 </p>
 
 #### Frameworks & Libraries
@@ -53,8 +53,8 @@ Cloud Computing, Augmented Reality, AI
     <img src="https://img.icons8.com/color/35/flask.png" />
     <img src="https://img.icons8.com/color/35/000000/flutter.png" />
     <img src="https://img.icons8.com/color/35/django.png" />
-    <!-- <img width="35" height="35" src="https://developers.google.com/static/ar/images/logo.svg" />
-    <img width="35" height="35" src="https://cdn.wikitude.com/static-website/2012/12/20112633/Wikitude_Logo.png"> -->
+    <img width="35" height="35" src="https://developers.google.com/static/ar/images/logo.svg" />
+    <!-- <img width="35" height="35" src="https://cdn.wikitude.com/static-website/2012/12/20112633/Wikitude_Logo.png"> -->
 </p>
 
 #### Databases & Cloud Hosting
@@ -77,8 +77,8 @@ Cloud Computing, Augmented Reality, AI
     <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png" />
     <img
         src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/35/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" />
-    <!-- <img src="https://img.icons8.com/color/35/unity.png" />
-    <img src="https://img.icons8.com/color/35/figma--v1.png" /> -->
+    <img src="https://img.icons8.com/color/35/unity.png" />
+    <!-- <img src="https://img.icons8.com/color/35/figma--v1.png" /> -->
     <img src="https://img.icons8.com/color/35/git.png" />
     <img src="https://img.icons8.com/color/35/000000/github.png" />
 </p>
