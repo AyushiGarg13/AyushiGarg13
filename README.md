@@ -52,8 +52,8 @@ Cloud Computing, Augmented Reality, AI
 <p>&emsp;
     <img src="https://img.icons8.com/color/35/flask.png" />
     <img src="https://img.icons8.com/color/35/000000/flutter.png" />
-    <!-- <img src="https://img.icons8.com/color/35/django.png" />
-    <img width="35" height="35" src="https://developers.google.com/static/ar/images/logo.svg" />
+    <img src="https://img.icons8.com/color/35/django.png" />
+    <!-- <img width="35" height="35" src="https://developers.google.com/static/ar/images/logo.svg" />
     <img width="35" height="35" src="https://cdn.wikitude.com/static-website/2012/12/20112633/Wikitude_Logo.png"> -->
 </p>
 
