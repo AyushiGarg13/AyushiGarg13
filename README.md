@@ -1,8 +1,8 @@
 <h1 align="center"> Hi, I'm Ayushi Garg 👋 </h1>
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://gpvc.arturio.dev/AyushiGarg13" />
-</p>
+</p> -->
 
 <h3 align="center">
     <img width=70 src="https://media.giphy.com/media/Kd5t8Q0aUDui9yaf9n/giphy.gif"> <i>Connect with me</i> <img width=70
