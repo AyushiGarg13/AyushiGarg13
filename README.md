@@ -27,12 +27,12 @@
 
 ## About Me :bust_in_silhouette:
 
-- :woman_technologist: I'm currently working as a Backend Developer in Capgemini. I'm passionate about coding and
+- :woman_technologist: I'm currently working as a Backend Developer at JP Morgan. I'm passionate about coding and
 innovating.
 - :seedling: I’m currently learning Django.
 - :bulb: I'm interested in learning multiple technologies like, Web Development, Mobile Development, Game Development,
 Cloud Computing, Augmented Reality, AI
-- :sparkles: My hobbies are singing, travelling, learning about astronomy
+- :sparkles: My hobbies are singing, traveling, learning about astronomy
 
 
 
